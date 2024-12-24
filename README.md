@@ -4,7 +4,7 @@ A simple Neovim extension for dynamic find-and-replace across files using Telesc
 
 ## Usage
 
-<leader>fx find files to replace with search > Ctrl + e to Select Current grip > Enter word to replace
+<leader>fx find files to replace with search > Ctrl + e to Select Current grip > Enter word to replace > ✨
 
 ## Installation
 
