@@ -2,6 +2,10 @@
 
 A simple Neovim extension for dynamic find-and-replace across files using Telescope and ripgrep.
 
+## Usage
+
+<leader>fx find files to replace with search > Ctrl + e to Select Current grip > Enter word to replace
+
 ## Installation
 
 ### Using Lazy.nvim
